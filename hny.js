@@ -43,20 +43,20 @@ document.addEventListener('DOMContentLoaded', () => {
     const timerId = setInterval(updateTimer, 1000);
   });
 function pd1(){
-  document.getElementById('krt').innerHTML="<img src='./mumumumu/Frame 1.png'>";
+  document.getElementById('krt').innerHTML="<img src='Frame 1.png'>";
 }
 function pd2(){
-  document.getElementById('krt').innerHTML="<img src='./mumumumu/Frame 2.png'>";
+  document.getElementById('krt').innerHTML="<img src='Frame 2.png'>";
 }
 function pd3(){
-  document.getElementById('krt').innerHTML="<img src='./mumumumu/Frame 3.png'>";
+  document.getElementById('krt').innerHTML="<img src='Frame 3.png'>";
 }
 function pd4(){
-  document.getElementById('krt').innerHTML="<img src='./mumumumu/Frame 4.png'>";
+  document.getElementById('krt').innerHTML="<img src='Frame 4.png'>";
 }
 function pd5(){
-  document.getElementById('krt').innerHTML="<img src='./mumumumu/Frame 5.png'>";
+  document.getElementById('krt').innerHTML="<img src='Frame 5.png'>";
 }
 function pd6(){
-  document.getElementById('krt').innerHTML="<img src='./mumumumu/Frame 6.png'>";
+  document.getElementById('krt').innerHTML="<img src='Frame 6.png'>";
 }
